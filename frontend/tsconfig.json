@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "es5",
+    "module": "es6",
+    "jsx": "react",
+    "noImplicitAny": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node"
+  }
+}
+
+//{
+//  "compilerOptions": {
+//    "baseUrl": "./",
+//    "jsx": "react",
+//    "lib": ["es5", "es6", "dom"],
+//    "module": "commonjs",
+//    "noImplicitAny": false,
+//    "outDir": "./dist/",
+//    "sourceMap": true,
+//    "strictNullChecks": true,
+//    "target": "es5",
+//    "typeRoots": [
+//      "custom_typings"
+//    ],
+//    "allowSyntheticDefaultImports": true,
+//  },
+//  "include": ["./src/**/*.tsx"],
+//  "exclude": ["dist", "build", "node_modules"]
+//}
